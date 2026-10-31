@@ -2,16 +2,18 @@
 {"dg-publish":true,"permalink":"/dotes/","dg-note-properties":{}}
 ---
 
-📜 Reglas Generales: 
+
+
+> [!NOTE] 📜 Reglas Generales: 
 1.DOTES DIVINOS.
 Los Dotes Divinos representan facultades y dones concedidos directamente por los dioses del Olimpo a sus semidioses y elegidos por diversas razones. No llegan al nivel de una bendición divina completa, pero son habilidades especiales otorgadas por las deidades para canalizar su poder en el mundo mortal.
 
 
-Usos 
+> [!WARNING] Usos 
 Usos máximos: El número total de veces que puedes activar tu Dote Divino es siempre igual a tu Modificador de Característica Principal actual.
 
 
-Ciclo de Recarga: Una vez utilizado el primer uso de la dote en el día, comienza un contador de 12 horas. Transcurridas las 12 horas desde ese primer uso, recuperas la totalidad de los usos gastados de la dote.
+> [!INFO] Ciclo de Recarga: Una vez utilizado el primer uso de la dote en el día, comienza un contador de 12 horas. Transcurridas las 12 horas desde ese primer uso, recuperas la totalidad de los usos gastados de la dote.
 
 
 Fórmula General de Efecto
@@ -36,9 +38,11 @@ I. Reglas Generales de Activación.
   - Cualquier otro estado restrictivo que impida el uso de acciones o reacciones.
 2. El Límite del Contenedor Mortal: Los dotes divinos canalizan una energía colosal que la carne y la mente mortal/semidivina no pueden procesar indefinidamente sin sufrir desgaste.
 3. El Cooldown: Para resetear el conteo de uso consecutivo y evitar penalizaciones, el personaje debe pasar al menos una ronda completa de combate sin activar su dote, permitiendo que su organismo procese la energía.
-II. El Precio del Poder .
+
+> [!DANGER] II. El Precio del Poder .
 Si un personaje decide forzar su herencia divina activando su dote de forma consecutiva sin dejar pasar el respiro de una ronda, su cuerpo colapsa progresivamente de la siguiente manera:
-Nivel 3: Fatiga Inicial.
+
+Nivel 3: Fatiga inicial.
 Si se utiliza el dote por tercera vez seguida, el personaje sufre de inmediato:
 - Pérdida de Reflejos: Pierde toda su Reacción en esa ronda.
 - Sobrecarga Física: Su velocidad de movimiento se reduce a la mitad en esa ronda.
