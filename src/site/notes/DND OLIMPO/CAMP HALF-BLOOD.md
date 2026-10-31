@@ -5,6 +5,7 @@
 
 ![-6089351181361461426.jpeg](/img/user/-6089351181361461426.jpeg)
 
+![IMG_20261030_235319_212.jpg](/img/user/IMG_20261030_235319_212.jpg)
 El ==**Campamento Mestizo**== (Camp Half-Blood) es un refugio y centro de entrenamiento secreto en **Long Island, Nueva York**, diseñado para proteger y capacitar a los semidioses griegos 
 # ¿Qué es y cuál es su función?
 Es el único lugar seguro en la Tierra para los semidioses griegos. Su función principal es entrenar a los héroes en combate, uso de habilidades divinas y supervivencia, además de protegerlos de los monstruos gracias a una barrera mágica impulsada por el vellocino de oro y el pino de Thalia, la cual impide la entrada a mortales y criaturas malignas.
