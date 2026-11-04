@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/dnd-olimpo/companions/","dg-note-properties":{}}
 ---
 
-I. COMPAÑEROS DIVINOS
+
 Los Compañeros Divinos representan criaturas de compañía infundidas con la gracia y la magia directa de los dioses, manteniendo al mismo tiempo su naturaleza mortal. A diferencia de un familiar arcano estándar, poseen raciocinio, conciencia propia, pensamiento independiente y habilidades únicas vinculadas al linaje de su dueño. Son seres vivos con necesidades reales, por lo que su cuidado, supervivencia y bienestar recaen enteramente sobre el semidiós vinculado.
+
 1. Invocación y Vínculo
 Naturaleza del Rito: El proceso para invocar o restablecer el vínculo con un compañero adopta la forma de un conjuro especializado de nivel 2:
 
@@ -37,3 +38,6 @@ El Costo del Retorno: Requiere gastar un espacio de conjuro de Nivel 2 y consumi
 El Costo de Oportunidad: Como la ambrosía completa se utiliza habitualmente para curaciones críticas de los personajes en la partida, gastar la mitad en el compañero significa que el jugador renuncia a parte de su propia sanación personal.
 
 [[Turrón \|Turrón ]]
+[[Bolt\|Bolt]]
+[[Vatrushka\|Vatrushka]]
+[[perro mujeriego\|perro mujeriego]]

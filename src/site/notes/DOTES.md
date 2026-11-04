@@ -15,7 +15,7 @@ Usos máximos: El número total de veces que puedes activar tu Dote Divino es si
 
 > [!INFO] Ciclo de Recarga: Una vez utilizado el primer uso de la dote en el día, comienza un contador de 12 horas. Transcurridas las 12 horas desde ese primer uso, recuperas la totalidad de los usos gastados de la dote.
 
-
+. 
 Fórmula General de Efecto
 El número de dados y el efecto numérico total del Dote Divino se calcula de la siguiente manera:
 Efecto Divino=Nd6+Modificador de Característica Principal.
