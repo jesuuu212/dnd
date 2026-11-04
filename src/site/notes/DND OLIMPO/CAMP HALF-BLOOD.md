@@ -13,8 +13,10 @@ Es el único lugar seguro en la Tierra para los semidioses griegos. Su función 
 
  * [[Dionisio\|Sr. D]] :asignado como director del campamento por su padre Zeus como castigo por comportarse mal.
  * [[Quirón\|Quirón]]: El sabio centauro que ejerce como director de actividades y mentor principal de los héroes.
- * [[Argos\|Argos]]
+ * [[Argos\|Argos]]: Jefe de seguridad del campamento 
+ * [[Quintus\|Quintus]]:Instructor de esgrima, entrenador del campamento, promotor de actividades físicas 
  * 
+
 ### Estructura e Instalaciones
  * Las Cabañas: Dispuestas en forma de "U", son 12 cabañas representando a los 12 olímpicos principales
  * La Casa Grande: Sede administrativa donde residen [[Quirón\|Quirón]] y Dionisio, y donde se encuentra la Casa del Oráculo.
