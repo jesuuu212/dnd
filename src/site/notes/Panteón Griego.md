@@ -10,7 +10,7 @@ OLIMPICOS:
 [[Demeter\|Demeter]]
 [[Ares\|Ares]]
 [[Atenea\|Atenea]]
-[[Apollo\|Apollo]]
+[[DND OLIMPO/Apollo\|Apollo]]
 [[Artemisa\|Artemisa]]
 [[Hefesto\|Hefesto]]
 [[Afrodita\|Afrodita]]
