@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/dotes/","dg-note-properties":{}}
 ---
 
-
+[[Dote Urthite\|Dote Urthite]]
+[[Dote Lyra \|Dote Lyra ]]
+[[Dote Rhea\|Dote Rhea]]
+[[Dote Phonodyn \|Dote Phonodyn ]]
 
 > [!NOTE] 📜 Reglas Generales: 
 1.DOTES DIVINOS.
