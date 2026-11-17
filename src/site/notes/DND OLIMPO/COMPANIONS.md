@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/dnd-olimpo/companions/","dg-note-properties":{}}
 ---
 
+[[DND OLIMPO/Compañeros Divinos - Stat Blocks y Relicarios\|Compañeros Divinos - Stat Blocks y Relicarios]]
 
 Los Compañeros Divinos representan criaturas de compañía infundidas con la gracia y la magia directa de los dioses, manteniendo al mismo tiempo su naturaleza mortal. A diferencia de un familiar arcano estándar, poseen raciocinio, conciencia propia, pensamiento independiente y habilidades únicas vinculadas al linaje de su dueño. Son seres vivos con necesidades reales, por lo que su cuidado, supervivencia y bienestar recaen enteramente sobre el semidiós vinculado.
 
