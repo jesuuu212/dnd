@@ -3,13 +3,6 @@
 ---
 
 [[DND OLIMPO/COMPANIONS\|COMPANIONS]]
-
-# 🐾 Compañeros Divinos y Relicarios (Campaña Percy Jackson)
-
-Compendio de estadísticas, habilidades y reglas de resguardo para las mascotas de los jugadores al subir a **Nivel 4**.
-
----
-
 ## 📦 Mecánica de Resguardo Universal (Relicarios)
 
 Cada jugador posee un objeto mágico personalizado vinculado a su progenitor divino, diseñado exclusivamente para transportar y proteger a su compañero:
@@ -74,6 +67,7 @@ Cada jugador posee un objeto mágico personalizado vinculado a su progenitor div
 
 ### Acciones
 * **Garra / Picotazo:** *Ataque de arma cuerpo a cuerpo:* +3 al impacto, alcance 5 pies, un objetivo. *Impacto:* 3 (`1d4 + 1`) de daño cortante o perforante.
+Marca de Artemisa (Activa - 1/Día): Una vez al día, el búho puede marcar a un enemigo con una estela de luz argenta apenas visible. El siguiente ataque que el hijo de Hefesto (o un aliado cercano) le haga a ese objetivo tiene ventaja y causa un dado extra de daño radiante o de fuerza, simbolizando la precisión de la diosa de la caza.
 
 ---
 
