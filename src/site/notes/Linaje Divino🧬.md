@@ -17,3 +17,7 @@ Rango base: 60 pies como estándar general de uso (salvo que la habilidad propia
 Duración: Instantánea o hasta 1 hora, según la naturaleza de cada manifestación divina.
 Escuela de referencia: A modo de clasificación mágica general del compendio, se agrupan bajo la lógica de Evocación (al tratarse de manifestaciones de magia divina canalizada desde la esencia del linaje).
 
+[[Linaje Zeus\|Linaje Zeus]]
+[[Linaje Hades\|Linaje Hades]]
+[[Linaje Afrodita\|Linaje Afrodita]]
+[[Linaje Hefesto \|Linaje Hefesto ]]
